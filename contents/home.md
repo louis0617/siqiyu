@@ -7,7 +7,7 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 <code>XX@XX.XX</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**The Chinese University of Hong Kong**, Master of Engineering in Computer Science(XX – XX)  
 • GPA: XX/XX  
 
 **XX University**, Exchange student <br>  
