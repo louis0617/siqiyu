@@ -47,6 +47,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
     // Marked
     marked.use({ mangle: false, headerIds: false })
+    marked.setOptions({ breaks: true })
     section_names.forEach((name, idx) => {
         fetch(content_dir + name + '.md')
             .then(response => response.text())

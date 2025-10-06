@@ -3,8 +3,7 @@
 I'm currently pursuing a Research Assistant in Game Design at the Computational Media and Arts Thrust Area, The Hong Kong University of Science and Technology (Guangzhou).
 
 #### Email  
-<code>ysq_work@163.com</code>  
-<code>siqiyu@hkust-gz.edu.cn</code>
+<code>ysq_work@163.com</code>         <code>siqiyu@hkust-gz.edu.cn</code>
 
 #### Education  
 **Department of Engineering, The Chinese University of Hong Kong**  Hong Kong  China  
@@ -16,4 +15,4 @@ Bachelor of Engineering in Electrical Engineering and Automation  09/2013–06/2
 Major GPA: 3.66/4.0 or 88/100  （Rank:21/110）  
 
 #### Research Interests  
-XX, XX, XX, XX.
+AI/VR Game Design, LLM Reasoning, Literary Computing.
